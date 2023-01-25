@@ -1,7 +1,7 @@
 # README
 Instructions for getting started:
 
-Clone the repo and ensure that you can start a rails server
+Clone the repo and ensure that you can start a rails server (You'll need to do this w/ https).
 
 Create a pull request with your name (ie. John-Smith)
 
