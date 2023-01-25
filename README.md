@@ -4,9 +4,11 @@ Please complete as many steps as you can in the allotted timeframe.  If any step
 
 1.  Create an "invitation" model.
 
-  A.  Your model should require each of the following:  code (8 characters), first_name (string), last_name (string), email (string), activated_at (datetime).
-  B.  Require that the email be a valid email address.
-  C.  Require that there are no duplicate email addresses.
+1A.  Your model should require each of the following:  code (8 characters), first_name (string), last_name (string), email (string), activated_at (datetime).
+
+1B.  Require that the email be a valid email address.
+
+1C.  Require that there are no duplicate email addresses.
   
 2.  Create routes for invitation that allow display of all invitations, a detailed view of an invitation, and the ability to update an invitation.
 
