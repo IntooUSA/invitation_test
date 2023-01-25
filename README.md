@@ -2,9 +2,13 @@
 Instructions for getting started:
 
 Clone the repo and ensure that you can start a rails server
+
 Create a pull request with your name (ie. John-Smith)
+
 Complete a many steps as you can below.
+
 Commit to the PR branch and push to the repo
+
 
 Please complete as many steps as you can in the allotted timeframe.  If any step or sub-step is unknown to you, skip to the next one.  The goal is to show what you know without getting stuck on any step.  If any steps are unclear, feel free to ask questions.
 
