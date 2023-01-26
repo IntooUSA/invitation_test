@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+  resources :invitations, only: [:index, :show, :update]
+  get 'search/invitations', to 'invitations#search'
 end

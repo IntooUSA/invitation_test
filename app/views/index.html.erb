@@ -1,0 +1,19 @@
+<h1>All invitations!</h1>
+<ul>
+    <%@invitations.each do |invitation|%>
+        <li><%=invitation%></li>
+    <%end%>
+</ul>
+
+<form action="<%=invitations_url%>" method="POST">
+    <input type="hidden" name="_method" value="SEARCH">
+    <label>Search for an invitation
+        <input type="text" value="">
+    </label>
+</form>
+
+<ul>
+    <%@invitations_results.each do |result|%>
+        <li><%=result%></li>
+    <%end%>
+</ul>
