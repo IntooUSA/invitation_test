@@ -31,4 +31,6 @@ Please complete as many steps as you can in the allotted timeframe.  If any step
 
 8.  Create a method that loads invitation_test.csv into your model (Attached to this repo).
 
-9.  Create a method that plots the number of invitations activated each day using the (line, pie, bar) graph of your choice.
+9.  Paginate your invitations so that they show 20 invitations on each page
+
+10.  Create a method that plots the number of invitations activated each day using the (line, pie, bar) graph of your choice.
