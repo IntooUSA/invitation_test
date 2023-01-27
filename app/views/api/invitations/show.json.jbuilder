@@ -1,0 +1,1 @@
+json.partial! "api/invitations/invitation", invitation: @invitation

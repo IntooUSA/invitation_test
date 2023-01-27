@@ -1,0 +1,7 @@
+<h1>Invitations!</h1>
+
+<%= form_tag invitation_index_path, :method => "get" do %>
+    <%= label_tag(:index, "Search via first name, last name, or email") %>
+    <%= text_field_tag :index, params[:first_name, :last_name, :email] %>
+    <%= submit_tag("Search", :invitation => nil)%>
+<% end %>

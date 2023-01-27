@@ -1,0 +1,1 @@
+json.extract! invitation, :id, :code, :first_name, :last_name, :email, :activated_at
